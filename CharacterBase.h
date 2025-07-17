@@ -1,5 +1,7 @@
 #include "GameFramework/CHaracter.h"
 #include "AuraCharacterbase.Generated.h"
+class UAbilitySystemCOmponent;
+class UAttributeSet;
 
 UCLASS(Abstract)
 
